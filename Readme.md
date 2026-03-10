@@ -1,6 +1,9 @@
-# Aspiring Quant
+# [~]$ whoami
 
-I am that person who
+**Hello There, I'm Anirudh**
+***Welcome to my page**
+
+
 
 ## Work Experience
 
