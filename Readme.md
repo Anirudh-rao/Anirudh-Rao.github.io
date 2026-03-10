@@ -1,11 +1,12 @@
 # Aspiring Quant
 
+I am that person who
+
 ## Work Experience
 
 ```Associate Anayst @ EY```
 
-- Worked as a Data Engineer for a UK Insurance Company
-- Main tech Stack includes Snowflake-Azure with GenAI using Snowflake.
+
 
 ### Projects
 
